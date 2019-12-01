@@ -9,4 +9,4 @@
 
 # Translation.py
 Модуль translation.py позволяет переводить текст с помощью сервиса deepl.com. 
-Используется get_translate(text, to_lang, from_lang).
+Используйте get_translate(text, to_lang, from_lang).
